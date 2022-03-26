@@ -6,4 +6,4 @@ I am a freelancer driven by curiosity, that strives to continually learn. I enjo
 - [Stocks](https://github.com/JE-Work/Stocks)
 - [Web-Scraping](https://github.com/JE-Work/Web-Scraping)
 
-. Want to reach me? j.eason.work@outlook.com
+. Want to reach me? [Email](j.eason.work@outlook.com)
